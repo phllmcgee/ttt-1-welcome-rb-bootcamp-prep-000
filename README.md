@@ -56,4 +56,4 @@ When you run `learn` you might see failing tests even though your program seemin
 
 An error like this is telling you that the test expects you to print `"Welcome to Tic Tac Toe!"`, but you printed something else. Programming is absolutely precise, make sure your tests are printing exactly "Welcome to Tic Tac Toe!".
 
-puts "Welcome to Tic Tac Toe!"
+print "Welcome to Tic Tac Toe!"
