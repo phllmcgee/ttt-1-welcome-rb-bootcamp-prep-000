@@ -58,4 +58,4 @@ An error like this is telling you that the test expects you to print `"Welcome t
 
 <p data-visibility='hidden'>View <a href='https://learn.co/lessons/ttt-1-welcome-rb' title='Welcome Message for Tic Tac Toe'>Welcome Message for Tic Tac Toe</a> on Learn.co and start learning to code for free.</p>
 
-print "Welcome to Tic Tac Toe!"
+puts "Welcome to Tic Tac Toe!"
